@@ -1,2 +1,2 @@
-# tienda-online
-Diseño Tienda Online | HTML, CSS, JAVASCRIPT
+#Pagina Web de Condimentos 
+Diseño de pagina web para Inversiones El Zafiro BA SAS 
