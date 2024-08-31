@@ -200,10 +200,9 @@ img{
 ==================================*/
 .sobre-nosotros {
     background: url(../img/fondo_banner.png);
-    background-size: cover; /* Asegura que la imagen cubra todo el contenedor */
-    background-position: center; /* Centra la imagen en el contenedor */
-    background-repeat: no-repeat; /* Evita que la imagen se repita */
-    height: 400px; /* Ajusta la altura según tus necesidades */
+    background-size: cover;
+    background-position: center;
+    padding: 50px 0;
 }
 
 .sobre-nosotros .container {
